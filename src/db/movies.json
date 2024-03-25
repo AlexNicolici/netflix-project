@@ -1,0 +1,434 @@
+{
+  "recommended": [
+    {
+      "name": "Hacksaw Ridge",
+      "description": "A true story of Desmond Doss, a conscientious objector who served as a medic during World War II.",
+      "image_url": "https://facts.net/wp-content/uploads/2023/06/46-facts-about-the-movie-hacksaw-ridge-1687620405.jpg",
+      "category": {
+        "id": 1,
+        "label": "Action"
+      },
+      "actors": [
+        {
+          "id": 3213,
+          "label": "Andrew Garfield"
+        },
+        {
+          "id": 132213,
+          "label": "Costel"
+        }
+      ]
+    },
+    {
+      "name": "The Irishman",
+      "description": "A mob hitman recalls his possible involvement with the slaying of Jimmy Hoffa.",
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SX300.jpg",
+      "category": {
+        "id": 5,
+        "label": "Drama"
+      },
+      "actors": [
+        {
+          "id": 313,
+          "label": "Robert De Niro"
+        },
+        {
+          "id": 1213,
+          "label": "Al Pacino"
+        }
+      ]
+    },
+    {
+      "name": "Marriage Story",
+      "description": "Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together.",
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZGVmY2RjNDgtMTc3Yy00YmY0LTgwODItYzBjNWJhNTRlYjdkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
+      "category": {
+        "id": 4,
+        "label": "Comedy"
+      },
+      "actors": [
+        {
+          "id": 713,
+          "label": "Adam Driver"
+        },
+        {
+          "id": 139,
+          "label": "Scarlett Johansson"
+        }
+      ]
+    },
+    {
+      "name": "Parasite",
+      "description": "All unemployed, Ki-taek and his family take peculiar interest in the wealthy and glamorous Parks, as they ingratiate themselves into their lives and get entangled in an unexpected incident.",
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+      "category": {
+        "id": 2,
+        "label": "Thriller"
+      },
+      "actors": [
+        {
+          "id": 621,
+          "label": "Kang-ho Song"
+        },
+        {
+          "id": 622,
+          "label": "Sun-kyun Lee"
+        }
+      ]
+    },
+    {
+      "name": "Knives Out",
+      "description": "A detective investigates the death of a patriarch of an eccentric, combative family.",
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SX300.jpg",
+      "category": {
+        "id": 2,
+        "label": "Thriller"
+      },
+      "actors": [
+        {
+          "id": 721,
+          "label": "Daniel Craig"
+        },
+        {
+          "id": 722,
+          "label": "Chris Evans"
+        }
+      ]
+    },
+    {
+      "name": "The Godfather",
+      "description": "The story of the Corleone family and the transformation of Michael Corleone.",
+      "image_url": "https://communist.red/wp-content/uploads/2022/08/godfather.png.webp",
+      "category": {
+        "id": 5,
+        "label": "Drama"
+      },
+      "actors": [
+        {
+          "id": 543,
+          "label": "Marlon Brando"
+        },
+        {
+          "id": 654,
+          "label": "Al Pacino"
+        }
+      ]
+    },
+    {
+      "name": "Pulp Fiction",
+      "description": "Interconnected stories of crime, redemption, and the bizarre in Los Angeles.",
+      "image_url": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/04d2059a-0056-4693-93cd-5fd1b7b02d4e/394696225b571c335b42a7a9329992b5f33ba8fb.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+      "category": {
+        "id": 4,
+        "label": "Comedy"
+      },
+      "actors": [
+        {
+          "id": 987,
+          "label": "John Travolta"
+        },
+        {
+          "id": 876,
+          "label": "Uma Thurman"
+        }
+      ]
+    },
+    {
+      "name": "The Dark Knight",
+      "description": "Batman faces the Joker's chaos in Gotham City as he teeters on the edge of heroism and vigilantism.",
+      "image_url": "https://m.media-amazon.com/images/S/pv-target-images/92d5aa88921788f14d4cf89f98b0db5f8381a965e0feeb0a21d1a32636b00d77.jpg",
+      "category": {
+        "id": 1,
+        "label": "Action"
+      },
+      "actors": [
+        {
+          "id": 6789,
+          "label": "Christian Bale"
+        },
+        {
+          "id": 987,
+          "label": "Heath Ledger"
+        }
+      ]
+    },
+    {
+      "name": "Inception",
+      "description": "A thief who enters the dreams of others to steal secrets from their subconscious.",
+      "image_url": "https://ntvb.tmsimg.com/assets/p7825626_v_h10_aa.jpg?w=1280&h=720",
+      "category": {
+        "id": 2,
+        "label": "Thriller"
+      },
+      "actors": [
+        {
+          "id": 4567,
+          "label": "Leonardo DiCaprio"
+        },
+        {
+          "id": 890,
+          "label": "Joseph Gordon-Levitt"
+        }
+      ]
+    }
+  ],
+  "mostWatched": [
+    {
+      "name": "Titanic",
+      "description": "The ill-fated love story of Jack and Rose aboard the RMS Titanic.",
+      "image_url": "https://images4.alphacoders.com/617/thumb-1920-617213.jpg",
+      "category": {
+        "id": 5,
+        "label": "Drama"
+      },
+      "actors": [
+        {
+          "id": 123,
+          "label": "Leonardo DiCaprio"
+        },
+        {
+          "id": 345,
+          "label": "Kate Winslet"
+        }
+      ]
+    },
+    {
+      "name": "Avatar",
+      "description": "A marine on a distant moon becomes torn between following orders and protecting an alien civilization.",
+      "image_url":"https://www.cnet.com/a/img/resize/05ddcebef02ed2db237bb6ecabc40255a94b10bb/hub/2019/01/11/b251bf04-5bf8-469a-be8d-79489551460b/avatar-2009.jpg?auto=webp&fit=crop&height=675&width=1200", 
+      "category": {
+        "id": 2,
+        "label": "Thriller"
+      },
+      "actors": [
+        {
+          "id": 678,
+          "label": "Sam Worthington"
+        },
+        {
+          "id": 9876,
+          "label": "Zoe Saldana"
+        }
+      ]
+    },
+    {
+      "name": "Jurassic Park",
+      "description": "A theme park populated by genetically-engineered dinosaurs spirals into chaos.",
+      "image_url": "https://cdn.britannica.com/48/177648-050-833A43AA/Scene-Jurassic-Park-Steven-Spielberg.jpg",
+      "category": {
+        "id": 3,
+        "label": "Animation"
+      },
+      "actors": [
+        {
+          "id": 567,
+          "label": "Sam Neill"
+        },
+        {
+          "id": 890,
+          "label": "Laura Dern"
+        }
+      ]
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "description": "Frodo Baggins begins his journey to destroy the One Ring and save Middle-earth.",
+      "image_url": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/7/1252477_fellowship.jpg",
+      "category": {
+        "id": 6,
+        "label": "Fantasy"
+      },
+      "actors": [
+        {
+          "id": 234,
+          "label": "Elijah Wood"
+        },
+        {
+          "id": 876,
+          "label": "Ian McKellen"
+        }
+      ]
+    },
+    {
+      "name": "Forrest Gump",
+      "description": "A simple man witnesses and influences several defining historical events in the 20th century.",
+      "image_url":"https://m.media-amazon.com/images/S/pv-target-images/28ad5a615d61071e9d1aebbf684c89fcc3a8c5b3528d8ba778bb13198764d840.jpg",
+      "category": {
+        "id": 5,
+        "label": "Drama"
+      },
+      "actors": [
+        {
+          "id": 543,
+          "label": "Tom Hanks"
+        },
+        {
+          "id": 987,
+          "label": "Robin Wright"
+        }
+      ]
+    }
+  ],
+  "action": [
+    {
+      "name": "Die Hard",
+      "description": "A New York cop battles terrorists who have taken hostages in a Los Angeles skyscraper.",
+      "image_url":"https://m.media-amazon.com/images/M/MV5BODg5MGJmNGUtNDBmNC00ODk4LWJmZmQtYzc4ZTk2MzUyZDM3XkEyXkFqcGdeQXVyMjYzNTQ5Njc@._V1_.jpg",
+      "category": {
+        "id": 1,
+        "label": "Action"
+      },
+      "actors": [
+        {
+          "id": 5432,
+          "label": "Bruce Willis"
+        },
+        {
+          "id": 654,
+          "label": "Alan Rickman"
+        }
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "name": "Toy Story",
+      "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+      "image_url":"https://i.insider.com/62ac831e384b54001841793d?width=1136&format=jpeg",
+      "category": {
+        "id": 3,
+        "label": "Animation"
+      },
+      "actors": [
+        {
+          "id": 2345,
+          "label": "Tom Hanks"
+        },
+        {
+          "id": 123,
+          "label": "Tim Allen"
+        }
+      ]
+    },
+    {
+      "name": "Frozen",
+      "description": "A fearless princess sets off on a journey alongside a rugged iceman, his loyal reindeer, and a naive snowman to find her estranged sister, whose icy powers have trapped their kingdom in eternal winter.",
+      "image_url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BFFC561B156453B0B7F4A76E05313E4E1D7F910A3287A61D77FA85C3D5F4847B/scale?width=1200&amp;aspectRatio=1.78&amp;format=webp",
+      "category": {
+        "id": 3,
+        "label": "Animation"
+      },
+      "actors": [
+        {
+          "id": 876,
+          "label": "Kristen Bell"
+        },
+        {
+          "id": 9876,
+          "label": "Idina Menzel"
+        }
+      ]
+    }
+  ],
+  "comedy": [
+    {
+      "name": "Superbad",
+      "description": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
+      "image_url": "https://res.cloudinary.com/jerrick/image/upload/v1610578424/5fff79f883f7a1001c77abaa.jpg",
+      "category": {
+        "id": 4,
+        "label": "Comedy"
+      },
+      "actors": [
+        {
+          "id": 5678,
+          "label": "Jonah Hill"
+        },
+        {
+          "id": 543,
+          "label": "Michael Cera"
+        }
+      ]
+    },
+    {
+      "name": "The Hangover",
+      "description": "Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing.",
+      "image_url":"https://ntvb.tmsimg.com/assets/p192248_v_h10_am.jpg?w=960&h=540",
+      "category": {
+        "id": 4,
+        "label": "Comedy"
+      },
+      "actors": [
+        {
+          "id": 9876,
+          "label": "Bradley Cooper"
+        },
+        {
+          "id": 8765,
+          "label": "Zach Galifianakis"
+        }
+      ]
+    }
+  ],
+  "drama": [
+    {
+      "name": "The Shawshank Redemption",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "image_url": "https://blogthegoodwill.files.wordpress.com/2023/07/d56b2942bc24e60043c79b061040c63d43ba529f0db1feff055e3b7a4dcc28ce._ur19201080_.jpg?w=1568",
+      "category": {
+        "id": 5,
+        "label": "Drama"
+      },
+      "actors": [
+        {
+          "id": 234,
+          "label": "Tim Robbins"
+        },
+        {
+          "id": 876,
+          "label": "Morgan Freeman"
+        }
+      ]
+    },
+    {
+      "name": "Schindler's List",
+      "description": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazi Germans.",
+      "image_url":"https://www.silverscreen.tours/wp-content/uploads/2021/02/schindlers-list-banner-01.jpg",
+      "category": {
+        "id": 5,
+        "label": "Drama"
+      },
+      "actors": [
+        {
+          "id": 543,
+          "label": "Liam Neeson"
+        },
+        {
+          "id": 987,
+          "label": "Ben Kingsley"
+        }
+      ]
+    }
+  ],
+  "fantasy": [
+    {
+      "name": "Harry Potter and the Philosopher's Stone",
+      "description": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family, and the terrible evil that haunts the magical world.",
+      "image_url": "https://facts.net/wp-content/uploads/2023/06/38-facts-about-the-movie-harry-potter-and-the-sorcerers-stone-1687659359.jpeg",
+      "category": {
+        "id": 6,
+        "label": "Fantasy"
+      },
+      "actors": [
+        {
+          "id": 234,
+          "label": "Daniel Radcliffe"
+        },
+        {
+          "id": 876,
+          "label": "Emma Watson"
+        }
+      ]
+    }
+  ]
+}

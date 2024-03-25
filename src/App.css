@@ -1,38 +1,48 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.product-images-slider .swiper-button-next {
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.product-images-slider .swiper-button-prev {
+  color: white;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.product-images-slider .swiper-pagination-bullet {
+  opacity: 0.5;
+  background-color: #ffffff;
+  padding: 5px;
+  bottom: 2;
 }
+.product-images-slider .swiper-pagination-bullet-active {
+  opacity: 1;
+}
+.product-images-slider .swiper-progress-bar {
+  width: 600px;
+  height: 4px;
+  position: relative;
+  margin: 20px auto;
+  background: #eeeeee;
+}
+.product-images-slider .swiper-progress-bar .progress {
+  height: inherit;
+  left: 0;
+  top: 0;
+  position: absolute;
+  background: white;
+  z-index: 1;
+}
+.product-images-slider .swiper-progress-bar .progress-sections {
+  left: 0;
+  top: 0;
+  position: absolute;
+  height: inherit;
+  width: inherit;
+  z-index: 2;
+  display: flex;
+  flex-direction: row;
+}
+.product-images-slider .swiper-progress-bar .progress-sections span {
+  flex: 1;
+  height: inherit;
+  border-right: 2px solid #eee;
+}
+.product-images-slider .swiper-progress-bar .progress-sections span:last-child {
+  border-right-width: 0;
+}/*# sourceMappingURL=App.css.map */
