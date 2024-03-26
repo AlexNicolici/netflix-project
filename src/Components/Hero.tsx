@@ -52,15 +52,9 @@ function Hero({
     }
   };
 
-  const getBackgroundColor = () => {
-    if (backgroundImage) {
-      return `bg-[url('')]`;
-    }
-    return "bg-gradient-to-r from-cyan-500 to-blue-500";
-  };
   return (
     <div
-      className={`${getBackgroundColor()} cursor-default bg-center bg-cover bg-no-repeat duration-500
+      className={` cursor-default bg-center bg-cover bg-no-repeat duration-500
     bg-gradient-to-tr from-gray-600 to-gray-600 w-full m-auto
     flex 
     z-10 relative

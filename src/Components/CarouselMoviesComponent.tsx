@@ -2,41 +2,15 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { EffectFade, Navigation, Pagination } from "swiper/modules";
 
 import MovieCard from "./MovieCard";
+import { MyMoviesListInterface } from "../interfaces/movie.interface";
 
 function CarouselMoviesComponent({
   title,
   moviesList,
 }: {
   title?: string;
-  moviesList: {
-    name: string;
-    description: string;
-    image_url: string;
-    category: {
-      id: number;
-      label: string;
-    };
-    actors: {
-      id: number;
-      label: string;
-    }[];
-  }[];
+  moviesList: MyMoviesListInterface[];
 }) {
-  const getActorsNames = (
-    actors: {
-      id: number;
-      label: string;
-    }[]
-  ) => {
-    const newActorsList = actors.map((actor, idx: number) => {
-      if (actors.length - 1 !== idx) {
-        return actor.label + ",";
-      }
-      return actor.label;
-    });
-    return newActorsList.join(" ");
-  };
-
   return (
     <div className="mb-5">
       <h1 className="text-white text-2xl font-semibold mb-2">{title}</h1>
@@ -96,17 +70,9 @@ function CarouselMoviesComponent({
         onSlideChange={() => console.log("slide change")}
       >
         {moviesList.map((movie) => {
-          const movieActors = getActorsNames(movie.actors);
-
           return (
             <SwiperSlide key={movie.name}>
-              <MovieCard
-                movieActors={movieActors}
-                movieImage={movie.image_url}
-                movieGenre={movie.category.label}
-                movieTtitle={movie.name}
-                movieDescription={movie.description}
-              />
+              <MovieCard movie={movie} />
             </SwiperSlide>
           );
         })}

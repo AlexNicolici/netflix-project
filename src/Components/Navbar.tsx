@@ -45,9 +45,9 @@ function Navbar() {
         style={{ height: layoutConstants.NAVBAR_HEIGHT }}
         className="bg-netflix-black fixed top-0  w-full z-50 flex flex-row items-center pr-[60px] pl-[60px] py-3"
       >
-        <a href="/">
+        <Link to="/">
           <img src={logo} alt="logo" width={80} className="mr-5" />
-        </a>
+        </Link>
 
         <div className="flex flex-row justify-between items-center w-full">
           <ul className="flex flex-row ">
@@ -80,9 +80,6 @@ function Navbar() {
                 }}
               />
             </Badge>
-            {/* <Badge badgeContent={3} color="primary">
-              <CiBellOn className="text-white text-[30px] ml-5" />
-            </Badge> */}
 
             <img
               src={avatar}
