@@ -2,7 +2,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { EffectFade, Navigation, Pagination } from "swiper/modules";
 
 import MovieCard from "./MovieCard";
-import { MyMoviesListInterface } from "../interfaces/movie.interface";
+import { MyMoviesListInterface } from "../redux/interfaces/movie.interface";
 
 function CarouselMoviesComponent({
   title,

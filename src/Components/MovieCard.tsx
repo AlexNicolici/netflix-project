@@ -3,7 +3,7 @@ import { useState } from "react";
 import { MdKeyboardArrowDown } from "react-icons/md";
 import { IoIosPlay } from "react-icons/io";
 
-import { MyMoviesListInterface } from "../interfaces/movie.interface";
+import { MyMoviesListInterface } from "../redux/interfaces/movie.interface";
 import MovieCardModal from "./MovieCardModal";
 
 function MovieCard({

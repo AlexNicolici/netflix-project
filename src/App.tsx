@@ -13,12 +13,15 @@ import MyList from "./pages/MyList";
 import Login from "./pages/Login";
 import Movies from "./pages/Movies";
 import Serials from "./pages/Serials";
+import ShowNavbar from "./helpers/ShowNavbar";
 
 function App() {
   return (
     <Provider store={store}>
       <div className="App min-h-screen bg-netflix-black font-poppins">
-        <Navbar />
+        <ShowNavbar>
+          <Navbar />
+        </ShowNavbar>
 
         <ScrollToTop />
 

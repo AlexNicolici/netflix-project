@@ -77,7 +77,10 @@ export default function ButtonDropdown({
       >
         {dropdownButtons.map((dropdownButton) => {
           return (
-            <MenuItem onClick={() => handleGetPageType(dropdownButton.url)}>
+            <MenuItem
+              key={dropdownButton.url}
+              onClick={() => handleGetPageType(dropdownButton.url)}
+            >
               {dropdownButton.name}
             </MenuItem>
           );

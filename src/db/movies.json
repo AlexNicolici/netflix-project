@@ -22,7 +22,7 @@
     {
       "name": "The Irishman",
       "description": "A mob hitman recalls his possible involvement with the slaying of Jimmy Hoffa.",
-      "image_url": "https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SX300.jpg",
+      "image_url": "https://pbs.twimg.com/media/ELcoN_QXYAAyN51.jpg:large",
       "category": {
         "id": 5,
         "label": "Drama"
@@ -41,7 +41,7 @@
     {
       "name": "Marriage Story",
       "description": "Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together.",
-      "image_url": "https://m.media-amazon.com/images/M/MV5BZGVmY2RjNDgtMTc3Yy00YmY0LTgwODItYzBjNWJhNTRlYjdkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
+      "image_url": "https://image.tmdb.org/t/p/original/wDwQXLDUuiEaaiuWIDBpbqnwYGX.jpg",
       "category": {
         "id": 4,
         "label": "Comedy"
@@ -60,7 +60,7 @@
     {
       "name": "Parasite",
       "description": "All unemployed, Ki-taek and his family take peculiar interest in the wealthy and glamorous Parks, as they ingratiate themselves into their lives and get entangled in an unexpected incident.",
-      "image_url": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+      "image_url": "https://images2.alphacoders.com/112/1122541.jpg",
       "category": {
         "id": 2,
         "label": "Thriller"
@@ -79,7 +79,7 @@
     {
       "name": "Knives Out",
       "description": "A detective investigates the death of a patriarch of an eccentric, combative family.",
-      "image_url": "https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SX300.jpg",
+      "image_url": "https://m.media-amazon.com/images/S/pv-target-images/5a30e009c4a9a603e13bdd024d70200969b91697db427ab9a3a6ae01c09993e4.jpg",
       "category": {
         "id": 2,
         "label": "Thriller"
@@ -98,7 +98,7 @@
     {
       "name": "The Godfather",
       "description": "The story of the Corleone family and the transformation of Michael Corleone.",
-      "image_url": "https://communist.red/wp-content/uploads/2022/08/godfather.png.webp",
+      "image_url": "https://images5.alphacoders.com/615/615040.jpg",
       "category": {
         "id": 5,
         "label": "Drama"
@@ -176,7 +176,7 @@
     {
       "name": "Titanic",
       "description": "The ill-fated love story of Jack and Rose aboard the RMS Titanic.",
-      "image_url": "https://images4.alphacoders.com/617/thumb-1920-617213.jpg",
+      "image_url": "https://images7.alphacoders.com/134/1341932.jpg",
       "category": {
         "id": 5,
         "label": "Drama"
@@ -214,7 +214,7 @@
     {
       "name": "Jurassic Park",
       "description": "A theme park populated by genetically-engineered dinosaurs spirals into chaos.",
-      "image_url": "https://cdn.britannica.com/48/177648-050-833A43AA/Scene-Jurassic-Park-Steven-Spielberg.jpg",
+      "image_url": "https://getwallpapers.com/wallpaper/full/0/3/4/1046645-jurassic-park-background-2880x1800-for-windows-10.jpg",
       "category": {
         "id": 3,
         "label": "Animation"
@@ -273,7 +273,7 @@
     {
       "name": "Die Hard",
       "description": "A New York cop battles terrorists who have taken hostages in a Los Angeles skyscraper.",
-      "image_url":"https://m.media-amazon.com/images/M/MV5BODg5MGJmNGUtNDBmNC00ODk4LWJmZmQtYzc4ZTk2MzUyZDM3XkEyXkFqcGdeQXVyMjYzNTQ5Njc@._V1_.jpg",
+      "image_url":"https://images3.alphacoders.com/112/1120718.jpg",
       "category": {
         "id": 1,
         "label": "Action"

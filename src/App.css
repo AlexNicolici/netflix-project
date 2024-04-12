@@ -45,4 +45,22 @@
 }
 .product-images-slider .swiper-progress-bar .progress-sections span:last-child {
   border-right-width: 0;
-}/*# sourceMappingURL=App.css.map */
+} /*# sourceMappingURL=App.css.map */
+
+.customTextField .MuiInputLabel-root {
+  color: gray;
+}
+
+.customTextField .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+  border-color: white;
+}
+
+.customTextField
+  .MuiOutlinedInput-root.Mui-focused
+  .MuiOutlinedInput-notchedOutline {
+  border-color: white;
+}
+
+.customTextField .MuiInputLabel-root.Mui-focused {
+  color: white;
+}

@@ -11,7 +11,7 @@ import {
   addMovieToMyList,
   removeMovieFromMyList,
 } from "../redux/reducer/movie.reducer";
-import { MyMoviesListInterface } from "../interfaces/movie.interface";
+import { MyMoviesListInterface } from "../redux/interfaces/movie.interface";
 
 import Button from "./Button";
 

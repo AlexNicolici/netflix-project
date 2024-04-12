@@ -3,12 +3,14 @@ import { TypedUseSelectorHook, useDispatch, useSelector } from "react-redux";
 import logger from "redux-logger";
 
 import movieReducer from "../reducer/movie.reducer";
+import pokemonReducer from "../reducer/pokemon.reducer";
 
 const isDebuggerMode = process.env.NODE_ENV !== "production";
 
 export const store = configureStore({
   reducer: {
     movie: movieReducer,
+    pokemon: pokemonReducer,
   },
   devTools: isDebuggerMode,
   middleware: (getDefaultMiddleware) => {

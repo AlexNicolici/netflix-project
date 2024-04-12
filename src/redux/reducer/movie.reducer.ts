@@ -1,5 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
-import { MyMoviesDataInterface } from "../../interfaces/movie.interface";
+import { MyMoviesDataInterface } from "../interfaces/movie.interface";
 
 export interface MovieStateInterface {
   myMoviesList: MyMoviesDataInterface;
